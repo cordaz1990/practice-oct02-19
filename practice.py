@@ -1,2 +1,2 @@
 print("hello")
-p
+pr
